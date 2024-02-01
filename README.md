@@ -22,7 +22,7 @@ A simple and engaging web-based bubble game where players must click on bubbles 
 Simply open the `index.html` file in a web browser to start playing the game.
 
 #### Demo:
-You can also check out a live demo of the game [here](#)
+You can also check out a live demo of the game [here](https://rajrishi22.github.io/Bubbly/)
 
 #### Contributing:
 Feel free to contribute to the project by submitting issues or creating pull requests.
